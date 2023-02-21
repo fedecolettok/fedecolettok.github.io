@@ -1,4 +1,6 @@
-# fedecolettok.github.io
-Repositorio para GitHub Pages
+# fedecolettok.github.io #
 
-> URL para ver la página del CV ARGENTINA PROGRAMA 4.0: https://fedecolettok.github.io/Proyecto/
+Este es un archivo Markdown, repositorio temporal para trabajar con páginas online con GitHub Pages.
+
+> ## CV - ARGENTINA PROGRAMA 4.0
+> (URL)
